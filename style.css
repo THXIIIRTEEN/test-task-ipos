@@ -82,7 +82,7 @@ body {
 
 @media screen and (max-width: 432px) {
     body {
-        padding: 0px;
+        padding: 20px;
     }
 
     .select-block {
